@@ -1,0 +1,1 @@
+var sumar = require('./suma');
